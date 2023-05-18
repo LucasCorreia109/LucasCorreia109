@@ -4,11 +4,13 @@
 - 👨‍🎓 Estou finalizando o Bacharel em Sistemas de Informação
 - 📝 Estou criando alguns projetos para portfolio
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCorreia109&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorreia109&layout=compact&theme=tokyonight)](https://github.com/LucasCorreia109/github-readme-stats)
 
-
-
+<div>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasCorreia109&show_icons=true&count_private=true&hide_border=true&title_color=tokyonight&icon_color=tokyonight&text_color=tokionight&bg_color=0d1117" alt="Lucas github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorreia109&layout=compact&hide_border=true&title_color=tokyonight&text_color=tokyonight&bg_color=0d1117" />
+  
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-SQL" height="30" width="40" 
