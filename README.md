@@ -1,8 +1,11 @@
-### Olá, eu sou Lucas Machado, analista de dados e desenvolvedor python
+### 👋 Olá, bem-vindo(a) ao meu perfil no GitHub!
 
-- 👨‍💻 Atualmente trabalho como Técnico de Redes NOC
-- 👨‍🎓 Estou finalizando o Bacharel em Sistemas de Informação
-- 📝 Estou criando alguns projetos para portfolio
+💼 Profissional de Dados: Atualmente, atuo como Staff Industrial na Plena Alimentos, focando na análise e visualização de dados em uma indústria frigorífica de grande porte. Minha experiência inclui a criação de dashboards e insights estratégicos para melhoria de processos.
+🎓 Formação: Sou bacharel em Sistemas de Informação e estou sempre em busca de aprender mais sobre Business Intelligence, análise de dados e engenharia de dados.
+🚀 Portfólio: Explore meus repositórios para encontrar projetos práticos em Power BI, Python, Excel e SQL, incluindo análises de vendas, headcount e eficiência operacional.
+🏫 Compartilhando Conhecimento: Já ministrei minicursos de Power BI em eventos acadêmicos, abordando desde conceitos introdutórios até a criação de dashboards completos e aplicados.
+🌟 Diferenciais: Dedicação à transformação de dados em decisões estratégicas, simplificando informações complexas por meio de visualizações impactantes e storytelling com dados.
+📬 Contato: Aberto a oportunidades de colaboração e networking! Vamos conversar? Você pode me encontrar no LinkedIn.
 
 
 <div>
