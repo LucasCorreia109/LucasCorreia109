@@ -5,7 +5,7 @@
 🚀 Portfólio: Explore meus repositórios para encontrar projetos práticos em Power BI, Python, Excel e SQL, incluindo análises de vendas, headcount e eficiência operacional.<br>
 🏫 Compartilhando Conhecimento: Já ministrei minicursos de Power BI em eventos acadêmicos, abordando desde conceitos introdutórios até a criação de dashboards completos e aplicados.<br>
 🌟 Diferenciais: Dedicação à transformação de dados em decisões estratégicas, simplificando informações complexas por meio de visualizações impactantes e storytelling com dados.<br>
-📬 Contato: Aberto a oportunidades de colaboração e networking! Vamos conversar? Você pode me encontrar no LinkedIn.
+📬 Contato: Aberto a oportunidades de colaboração e networking! Vamos conversar? Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lucas-machado-23a80a122/).
 
 
 <div>
